@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FormulirPengajuanSkripsi</string>
+    <string name="Nama">Nama</string>
+    <string name="NIM">NIM</string>
+    <string name="Konsentrasi">Konsentrasi</string>
+    <string name="JudulSkripsi">JudulSkripsi</string>
+    <string name="btn_next">next</string>
+    <string name="btn_submit">submit</string>
+    <string name="btn_back">back</string>
+</resources>
